@@ -106,7 +106,7 @@ Go to 4280 (`http://localhost:4280`) to access the application with the emulated
 If your project includes API functions, install [Azure Functions Core Tools](https://github.com/Azure/azure-functions-core-tools):
 
 ```bash
-npm install -g azure-functions-core-tools@3 --unsafe-perm true
+npm install -g azure-functions-core-tools@4 --unsafe-perm true
 ```
 
 #### Start API server automatically
